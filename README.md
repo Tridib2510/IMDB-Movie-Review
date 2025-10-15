@@ -72,18 +72,6 @@ The main.py script loads the pre-trained model (simple_rnn_imdb.h5) and provides
 📊 Dataset
 The project utilizes the IMDb movie reviews dataset, which contains 50,000 reviews labeled as positive or negative. This dataset is commonly used for training sentiment analysis models.
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-pgsql
-Copy code
-
-You can copy and paste this directly into your `README.md`.  
-
-If you want, I can also **add badges for Python version, Streamlit, and TensorFlow** to make it look more professional. Do you want me to do that?
-
-
-
 
 
 
