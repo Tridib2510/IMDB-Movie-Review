@@ -39,7 +39,7 @@ def predict_sentiment(review):
 
 # Streamlit app
 st.write('IMDB Movie Review Sentiment Analysis')
-st.write('Enter a moview review to classify it as positive or negative')
+st.write('Enter a movie review to classify it as positive or negative')
 
 user_input=st.text_area('Movie Review')
 
